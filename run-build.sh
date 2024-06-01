@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo docker build .
+sudo docker build --pull -t fleeforezz/coffee1900 .
